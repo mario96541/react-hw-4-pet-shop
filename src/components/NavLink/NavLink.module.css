@@ -1,0 +1,25 @@
+.activelink {
+  color: #fe6348;
+}
+
+.link {
+  text-decoration: none;
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.navItem {
+  list-style: none;
+  padding: 20px;
+}
+
+.navHeader {
+  background-color: #444444;
+}
+
+a {
+  color: #fff;
+}
+.navList {
+  display: flex;
+}

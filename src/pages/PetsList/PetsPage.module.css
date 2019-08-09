@@ -1,0 +1,32 @@
+.petLink {
+  color: #000000;
+  text-decoration: none;
+  font-size: 16px;
+}
+.petsItem {
+  list-style: none;
+  max-width: 30%;
+}
+.petsList {
+  max-width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.petsTitle {
+  text-align: center;
+}
+.petsImg {
+  width: 100%;
+  height: 120px;
+}
+.imgConteiner {
+  max-width: 600px;
+  min-height: 600px;
+  margin: 0 auto;
+}
+.petName {
+  text-align: center;
+  font-weight: 600;
+  margin-bottom: 50px;
+}
