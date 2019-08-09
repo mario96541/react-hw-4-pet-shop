@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-hw-4-pet-shop/static/css/main.c8e6f6cc.chunk.css",
+    "main.js": "/react-hw-4-pet-shop/static/js/main.70760a99.chunk.js",
+    "main.js.map": "/react-hw-4-pet-shop/static/js/main.70760a99.chunk.js.map",
+    "runtime~main.js": "/react-hw-4-pet-shop/static/js/runtime~main.5e4f2825.js",
+    "runtime~main.js.map": "/react-hw-4-pet-shop/static/js/runtime~main.5e4f2825.js.map",
+    "static/js/2.849dec4f.chunk.js": "/react-hw-4-pet-shop/static/js/2.849dec4f.chunk.js",
+    "static/js/2.849dec4f.chunk.js.map": "/react-hw-4-pet-shop/static/js/2.849dec4f.chunk.js.map",
+    "index.html": "/react-hw-4-pet-shop/index.html",
+    "precache-manifest.08171b59555a6df63a3b02a64d2384cc.js": "/react-hw-4-pet-shop/precache-manifest.08171b59555a6df63a3b02a64d2384cc.js",
+    "service-worker.js": "/react-hw-4-pet-shop/service-worker.js",
+    "static/css/main.c8e6f6cc.chunk.css.map": "/react-hw-4-pet-shop/static/css/main.c8e6f6cc.chunk.css.map"
+  }
+}
